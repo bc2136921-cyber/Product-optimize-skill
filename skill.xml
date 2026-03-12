@@ -1,0 +1,8 @@
+<skill>
+<name>
+product-optimizer
+</name>
+<description>
+Orchestrates a multi-role product optimization session involving Brainstorming, User Simulation, Product Management, UI Design, Growth, and Commercialization. Invoke when users want to "optimize product", "improve app", or run a full product review.
+</description>
+</skill>
